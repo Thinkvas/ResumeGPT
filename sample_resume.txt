@@ -1,0 +1,4 @@
+Srinivas Siripella
+B.Tech in AI & ML
+Projects: Text-to-SQL, Stealth Hackathon System
+Skills: Python, LLMs, LangChain, Git, Streamlit
